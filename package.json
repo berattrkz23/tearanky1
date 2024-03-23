@@ -1,5 +1,5 @@
 {
-  "name": "thias7",
+  "name": "tearanky1",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,11 +8,15 @@
     "start": "next start",
     "lint": "next lint"
   },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/berattrkz23/macish23-fortea.git"
+  },
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
     "next": "14.1.3",
-    "macish23-fortea":"^1.0.6"
+    "macish23-fortea":"^1.0.7"
   },
   "devDependencies": {
     "typescript": "^5",
@@ -24,6 +28,6 @@
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.1.3",
-    "macish23-fortea":"^1.0.6"
+    "macish23-fortea":"^1.0.7"
   }
 }
